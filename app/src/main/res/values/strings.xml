@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CoderSwag</string>
+    <string name="categorybgimage">categoryBgImage</string>
+    <string name="hats">HATS</string>
+    <string name="categories">Categories</string>
+    <string name="products">Products</string>
+    <string name="productimage">ProductImage</string>
+    <string name="beanie">Beanie</string>
+    <string name="price">$20</string>
+    <string name="dummyText">Description: Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean lacinia bibendum nulla sed consectetur. Nullam id dolor id nibh ultricies vehicula ut id elit.</string>
+    <string name="add_to_cart">Add to cart!</string>
+    <string name="detailimageview">detailImageView</string>
+</resources>
